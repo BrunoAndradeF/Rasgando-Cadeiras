@@ -12,10 +12,10 @@ Esse projeto tem como objetivo auxiliar os estudantes de computação da UFCG(Un
   </p>
 
   ### Funcionalidades para usuário
-  <img src="/.github/avaliacao_page.png" alt="avaliacao-page" width="500"/> <img src="/.github/Simulator_page.png" alt="simulation-page" width="500"/>
+  <img src="/.github/avaliacao_page.png" alt="avaliacao-page" width="400"/> <img src="/.github/Simulator_page.png" alt="simulation-page" width="400"/>
 
   ### Funcionalidades exclusivas do administrador
-  <img src="/.github/report_page_adm.png" alt="report-page" width="500"/> <img src="/.github/report_analyze_adm.png" alt="report-analyze-page" width="500"/>
+  <img src="/.github/report_page_adm.png" alt="report-page" width="400"/> <img src="/.github/report_analyze_adm.png" alt="report-analyze-page" width="400"/>
 
 ---
 
